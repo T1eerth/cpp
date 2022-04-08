@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T1eerth
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c and java.
-- 💞️ I’m looking to collaborate on c and java.
+- 🌱 I’m currently learning c++.
+- 💞️ I’m looking to collaborate on c++.
 - 📫 How to reach me @Tirth_Vanparia on twitter.
 
 <!---
